@@ -12,3 +12,9 @@ this application is made with react native,React navigation
 @ React-native run-android Or React-native run-ios
 
 Note Data Fecthing By https://api.themoviedb.org/3/
+
+![alt tag](https://github.com/riki9925/BoxAladin-Movie-by-React-Native/blob/master/screen/WhatsApp%20Image%202018-11-06%20at%208.55.39%20PM.jpeg "Home Screen")
+
+![alt tag](https://github.com/riki9925/BoxAladin-Movie-by-React-Native/blob/master/screen/WhatsApp%20Image%202018-11-06%20at%208.55.38%20PM.jpeg "Detail Screen")
+
+
